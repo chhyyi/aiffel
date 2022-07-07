@@ -67,3 +67,4 @@ from PIL import Image
 - 그런데 Series의 value에 리스트를 저장하는 방식으로 dataframe처럼 쓸 수도 있다.
 - dataframe.head(), dataframe.tail(), dataframe.columns, dataframe.info(), .describe(), .isnull().sum(), .value_counts(), .sum()
 - dataframe['column1'].corr('column2') : correlation between two columns. dataframe[].corr() show table for every pair of columns
+- [pandas tut](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
